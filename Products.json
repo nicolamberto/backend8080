@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3,
+    "title": "actualizacion con PUT",
+    "description": "actualizacion con PUT",
+    "price": 200,
+    "thumbnail": "aaa",
+    "code": "ac2fr",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "celular",
+    "description": "celular",
+    "price": 200,
+    "thumbnail": "aaa",
+    "code": "ac2fr",
+    "stock": 10
+  }
+]
